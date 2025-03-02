@@ -1,0 +1,7 @@
+# ninja log v6
+0	190	1740874975723152021	CMakeFiles/untitled.dir/Item.cpp.o	b00788b2db6e83da
+1	247	1740874198580927015	CMakeFiles/untitled.dir/NPC.cpp.o	f26c35d9e33efd51
+1	635	1740874602079414868	CMakeFiles/untitled.dir/Game.cpp.o	98199416d31e749
+1	254	1740874602079414868	CMakeFiles/untitled.dir/main.cpp.o	57ea544052010a85
+1	340	1740874975724152040	CMakeFiles/untitled.dir/Location.cpp.o	fd1077799364ef4f
+340	378	1740874976063158477	untitled	9feaa3d804ba8056
